@@ -12,6 +12,9 @@ When the user chooses to 'Decode;, they are allowed to upload the encoded image 
 
 
 References:
+
 https://www.geeksforgeeks.org/image-steganography-in-cryptography/
+
 https://hackernoon.com/simple-image-steganography-in-python-18c7b534854f 
+
 https://github.com/lloistborn/ldpc-img
